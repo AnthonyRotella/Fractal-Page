@@ -1,0 +1,107 @@
+body {
+  background-color: black;
+}
+
+header {
+  background-color: rgb(39, 38, 38);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 50px;
+}
+
+h1 {
+  color: rgb(139, 132, 182);
+  text-align: center;
+  margin-top: 50px;
+}
+
+.awards {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  width: 40%;
+}
+
+.axe3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.turbo {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: -60px;
+  font-weight: bold;
+}
+
+.two {
+  color: rgb(252, 252, 252);
+  background-color: rgb(39, 37, 37);
+  text-align: center;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.three {
+  float: left;
+  width: 100%;
+  padding: 0px;
+  margin-bottom: 35px;
+  margin-left: 550px;
+}
+
+.four {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin: top 300px;
+  margin-bottom: 25px;
+}
+
+.five {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin: top 100px;
+  margin-bottom: 30px;
+}
+
+.six {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin: top 200px;
+}
+
+.seven {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin: top 100px;
+}
+
+.eight {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin: top 100px;
+}
+
+.btn {
+  border: none;
+  color: white;
+  background-color: orange;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 900px;
+}
